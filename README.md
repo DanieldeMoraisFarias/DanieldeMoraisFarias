@@ -3,7 +3,7 @@
 ## Sobre mim:
 ### 18 anos
 ### Estudante no IFPB - Campus Cajazeiras
-### Graduando em Análise e Desenvolvimento de sistemas - 2º período
+### Graduando em Análise e Desenvolvimento de sistemas - 3º período
 
 <!--
 **DanieldeMoraisFarias/DanieldeMoraisFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
